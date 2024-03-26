@@ -1,0 +1,6 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "solidity.remappingsUnix": [
+        "@openzeppelin/=Source code/Ethereum/node_modules/@openzeppelin/"
+    ]
+}
